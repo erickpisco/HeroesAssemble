@@ -1,0 +1,6 @@
+framework module Pods_HeroesAssemble {
+  umbrella header "Pods-HeroesAssemble-umbrella.h"
+
+  export *
+  module * { export * }
+}
